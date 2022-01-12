@@ -1,0 +1,8 @@
+C:\Users\Pratiksha\fellowshipShweta\testHello\testHello\obj\Debug\testHello.csproj.AssemblyReference.cache
+C:\Users\Pratiksha\fellowshipShweta\testHello\testHello\obj\Debug\testHello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pratiksha\fellowshipShweta\testHello\testHello\obj\Debug\testHello.csproj.CoreCompileInputs.cache
+C:\Users\Pratiksha\fellowshipShweta\testHello\testHello\bin\Debug\testHello.exe.config
+C:\Users\Pratiksha\fellowshipShweta\testHello\testHello\bin\Debug\testHello.exe
+C:\Users\Pratiksha\fellowshipShweta\testHello\testHello\bin\Debug\testHello.pdb
+C:\Users\Pratiksha\fellowshipShweta\testHello\testHello\obj\Debug\testHello.exe
+C:\Users\Pratiksha\fellowshipShweta\testHello\testHello\obj\Debug\testHello.pdb
