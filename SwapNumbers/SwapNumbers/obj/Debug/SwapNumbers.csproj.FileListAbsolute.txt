@@ -1,0 +1,8 @@
+C:\Users\Pratiksha\fellowshipShweta\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\Pratiksha\fellowshipShweta\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pratiksha\fellowshipShweta\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Pratiksha\fellowshipShweta\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+C:\Users\Pratiksha\fellowshipShweta\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.exe
+C:\Users\Pratiksha\fellowshipShweta\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.pdb
+C:\Users\Pratiksha\fellowshipShweta\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.exe
+C:\Users\Pratiksha\fellowshipShweta\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.pdb
