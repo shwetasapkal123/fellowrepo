@@ -15,8 +15,10 @@ namespace testHello
             Console.WriteLine("Changes coming from second developer");
 
             // syntax classname variable=new className();
-            fibonoSeries fibonocci = new fibonoSeries();
-            fibonocci.findfibonoceiSeries();
+            //fibonoSeries fibonocci = new fibonoSeries();
+            //fibonocci.findfibonoceiSeries();
+            datatype datatype = new datatype();
+            datatype.defineDatatype();
             Console.ReadLine();
 
         }
