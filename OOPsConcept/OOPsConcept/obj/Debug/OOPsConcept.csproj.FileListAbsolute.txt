@@ -1,0 +1,8 @@
+E:\ProjectTask\OOPsConcept\OOPsConcept\bin\Debug\OOPsConcept.exe.config
+E:\ProjectTask\OOPsConcept\OOPsConcept\bin\Debug\OOPsConcept.exe
+E:\ProjectTask\OOPsConcept\OOPsConcept\bin\Debug\OOPsConcept.pdb
+E:\ProjectTask\OOPsConcept\OOPsConcept\obj\Debug\OOPsConcept.csproj.AssemblyReference.cache
+E:\ProjectTask\OOPsConcept\OOPsConcept\obj\Debug\OOPsConcept.csproj.SuggestedBindingRedirects.cache
+E:\ProjectTask\OOPsConcept\OOPsConcept\obj\Debug\OOPsConcept.csproj.CoreCompileInputs.cache
+E:\ProjectTask\OOPsConcept\OOPsConcept\obj\Debug\OOPsConcept.exe
+E:\ProjectTask\OOPsConcept\OOPsConcept\obj\Debug\OOPsConcept.pdb
